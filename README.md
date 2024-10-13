@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tahir
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning basics of python
+- 🌱 I’m currently learning IoT Pentesting and Web application Pentesting
 - 💞️ I'm looking forward to collaborate
-- 📫 How to reach me
-- 😄 Pronouns: ...
+- 📫 How to reach me: https://www.facebook.com/abdullahaltahirofficial?mibextid=ZbWKwL
+- 😄 Pronouns: Ta-H-Ir
 - ⚡ Fun fact: https://g.co/kgs/6QanwdR
 
 <!---
